@@ -1,6 +1,6 @@
 .about {
   padding: 5rem 2rem;
-  background-color: #111113;
+  background-color: rgba(250, 250, 250, 0.9);
   font-family: Arial, sans-serif;
 }
 
@@ -13,7 +13,7 @@
   font-size: 3rem;
   font-weight: 700;
   margin-bottom: 4rem;
-  color: rgba(250, 250, 250, 0.9);
+  color: black;
   position: relative;
   padding-bottom: 2rem;
   display: inline-block; /* importante para o after acompanhar o tamanho do texto */
@@ -32,7 +32,7 @@
 
 .description {
   font-size: 1.7rem;
-  color: rgba(250, 250, 250, 0.9);
+  color: black;
   line-height: 1.6;
   text-align: justify;
   margin-bottom: 6rem;
@@ -53,7 +53,7 @@
 
 .about-info h3 {
   font-size: 2.6rem;
-  color: aqua;
+  color: black;
 }
 
 .title-info {
@@ -64,7 +64,7 @@
 
 .text-info {
   font-size: 1.6rem;
-  color: rgba(250, 250, 250, 0.9);
+  color: black;
   line-height: 1.4;
   text-align: justify;
 }
@@ -83,14 +83,14 @@
 .row li strong {
   font-weight: 600;
   margin-right: 10px;
-  color: rgba(250, 250, 250, 0.9);
+  color: black;
 }
 
 .row li span {
-  color: aqua;
+  color: black;
 }
 .text-adicional {
-  color: rgba(250, 250, 250, 0.9);
+  color: black;
   line-height: 1.4;
   text-align: justify;
   margin: 2rem 0 1.4rem;
